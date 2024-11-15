@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Himanshu',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Transform',
 			icon: 'book-copy',
-			link: 'https://login.understandupsc.com/store/home?tabCategoryId=2',
+			link: 'https://www.understandupsc.com/',
 		},
 		{
 			id: '2',
